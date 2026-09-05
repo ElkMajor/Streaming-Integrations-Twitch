@@ -15,4 +15,12 @@ The plugin provides Twitch account authorization, typed Helix API actions, Event
 
 The commercial plugin source and binaries are not distributed through this repository.
 
+## Unreal Engine Screenshots
+
+![Twitch Blueprint workflow](images/gallery/Gallery_01_BlueprintWorkflow_1920x1080.jpg)
+
+![Typed Twitch nodes](images/gallery/Gallery_02_TypedTwitchNodes_1920x1080.jpg)
+
+![In-editor documentation](images/gallery/Gallery_03_InEditorDocumentation_1920x1080.jpg)
+
 Copyright 2026 Major Elk. All rights reserved.
